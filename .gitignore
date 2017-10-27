@@ -2,6 +2,7 @@
 .idea/
 .coverage
 .cache
+config/my_development.cnf
 htmlcov/
 tags
 *.pyc

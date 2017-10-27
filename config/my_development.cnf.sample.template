@@ -1,6 +1,6 @@
 [access-db]
 host = localhost
-password = test
+password = root
 user = root
 port = 3306
 database = ohm_assessment
